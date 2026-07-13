@@ -1,5 +1,4 @@
 # sample_madlibs
-
 def madlib():
     adj1 = input("Adjective: ")
     adj2 = input("Adjective: ")
