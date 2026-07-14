@@ -127,7 +127,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Emmalla Akshay Rethic**
+**Emmala Akshay Rethvic**
 
 GitHub: https://github.com/yourusername
 
